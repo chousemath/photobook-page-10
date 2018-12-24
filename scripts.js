@@ -189,3 +189,5 @@ $('#input-x14').bind('input', function() {
 $('#input-x15').bind('input', function() {
   checkValues2();
 });
+
+$('#input-0').focus();
